@@ -17,8 +17,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-7">
-                <h1>Bootstrap Sidebar
-                    <p class="lead">With Affix and Scrollspy</p>
+                <h1>Dr Sirk Loots
+                    <p class="lead">Orthopaedic Surgeon
+                    <br/>Claremont - Cape Town
+                    <br/><a href="tel:0216714575"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> (021) 671 4575</a></p>
                 </h1>
             </div>
             <div class="col-md-5">
@@ -43,19 +45,19 @@
         <!--left-->
         <div class="col-md-3" id="leftCol">
             <ul class="nav nav-stacked" id="sidebar">
-                <li><a href="#sec0">About us</a></li>
-                <li><a href="#sec1">Feet & Ankles</a></li>
-                <li><a href="#sec2">Hands</a></li>
-                <li><a href="#sec3">Knees</a></li>
-                <li><a href="#sec4">Hips</a></li>
-                <li><a href="#sec5">Trauma</a></li>
-                <li><a href="#sec6">Contact Us</a></li>
+                <li><a href="#about-us">About us</a></li>
+                <li><a href="#feet-ankles">Feet & Ankles</a></li>
+                <li><a href="#hands">Hands</a></li>
+                <li><a href="#knees">Knees</a></li>
+                <li><a href="#hips">Hips</a></li>
+                <li><a href="#trauma">Trauma</a></li>
+                <li><a href="#contact-us">Contact Us</a></li>
             </ul>
         </div><!--/left-->
 
     <!--right-->
         <div class="col-md-9">
-            <h2 id="sec0">About us</h2>
+            <h2 id="about-us">About us</h2>
             <p>
                 At Bootply we like to build simple Bootstrap templates that utilize the code Bootstap CSS without a lot of customization. Sure you can
                 find a lot of Bootstrap themes and inspiration, but these templates tend to be heavy on customization.</p>
@@ -73,7 +75,7 @@
                 sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
                 Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut!</p>
 
-            <h2 id="sec1">Feet & Ankles</h2>
+            <h2 id="feet-ankles">Feet & Ankles</h2>
             <p>
                 Rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
                 dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut.
@@ -103,7 +105,7 @@
 
             <hr>
 
-            <h2 id="sec2">Hands</h2>
+            <h2 id="hands">Hands</h2>
             <p>
                 Rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
                 dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia cor magni dolores
@@ -119,7 +121,7 @@
 
             <hr>
 
-            <h2 id="sec3">Knees</h2>
+            <h2 id="knees">Knees</h2>
             <p>
                 Images are responsive sed @mdo but sum are more fun peratis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
                 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
@@ -133,7 +135,7 @@
                 Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut..</p>
 
 
-            <h2 id="sec4">Hips</h2>
+            <h2 id="hips">Hips</h2>
             <p>
                 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
                 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
@@ -144,7 +146,7 @@
 
             <hr>
 
-            <h2 id="sec5">Trauma</h2>
+            <h2 id="trauma">Trauma</h2>
             <p>
                 Images are responsive sed @mdo but sum are more fun peratis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
                 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
@@ -157,7 +159,7 @@
                 sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
                 Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut..</p>
 
-            <h2 id="sec6">Contact Us</h2>
+            <h2 id="contact-us">Contact Us</h2>
             <p>
                 Images are responsive sed @mdo but sum are more fun peratis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
                 totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae

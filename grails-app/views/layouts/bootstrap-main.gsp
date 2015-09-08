@@ -20,25 +20,25 @@
         <nav class="collapse navbar-collapse" role="navigation">
             <ul class="nav navbar-nav">
                 <li>
-                    <a href="#sec">About</a>
+                    <a href="#about-us">About</a>
                 </li>
                 <li>
-                    <a href="#sec">Feet & Ankles</a>
+                    <a href="#feet-ankles">Feet & Ankles</a>
                 </li>
                 <li>
-                    <a href="#sec">Hands</a>
+                    <a href="#hands">Hands</a>
                 </li>
                 <li>
-                    <a href="#sec">Knees</a>
+                    <a href="#knees">Knees</a>
                 </li>
                 <li>
-                    <a href="#sec">Hips</a>
+                    <a href="#hips">Hips</a>
                 </li>
                 <li>
-                    <a href="#sec">Trauma</a>
+                    <a href="#trauma">Trauma</a>
                 </li>
                 <li>
-                    <a href="#sec">Contact Us</a>
+                    <a href="#contact-us">Contact Us</a>
                 </li>
             </ul>
         </nav>
