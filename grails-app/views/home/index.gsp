@@ -18,7 +18,7 @@
         <div class="row">
             <div class="col-md-7">
                 <h1>Dr Sirk Loots
-                    <p class="lead">Orthopaedic Surgeon
+                    <p class="lead">Orthopaedic Surgeon - MB CHB (STELL) FCS Ortho (UCT)
                     <br/>Claremont - Cape Town
                     <br/><a href="tel:0216714575"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> (021) 671 4575</a></p>
                 </h1>
@@ -76,10 +76,15 @@
                 Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut!</p>
 
             <h2 id="feet-ankles">Feet & Ankles</h2>
-            <p>
-                Rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-                dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut.
-            </p>
+            <ul>
+                <li>Bunions – Hallux Valgus</li>
+                <li>Painful toes – Claw, Hammer, Corns & Mallet</li>
+                <li>Flat feet – Pes Planus, Tendon</li>
+                <li>High Arch – Pes Cavus</li>
+                <li>Painful heel – Plantar fasciitis, Club feet, foot deformities, Achilles Tendonitis</li>
+                <li>Ankle problems – sprains</li>
+                <li>Fractures   - TAR, Arthroscopy / Keyhole</li>
+            </ul>
             <div class="row">
                 <div class="col-md-6">
                     <div class="panel panel-default">
